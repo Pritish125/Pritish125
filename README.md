@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pritish125
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning BTech in Computer Science.
+- 🌱 I’m currently Studying BTech in Computer Science.
 - 📫 gmail: pritishmajumdar066@gmail.com//pritish.majumdar23@lpu.in
 
 <!---
